@@ -10,4 +10,3 @@ A simple python API based of the fast API python library to familiarize self wit
 
 ## Coder 
 
-s

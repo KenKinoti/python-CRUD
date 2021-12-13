@@ -23,3 +23,4 @@ def update_todo(id: int):
 @app.delete("/")
 def delete_todo(id: int):
     return {"Delete todo item with id {id}"}
+
